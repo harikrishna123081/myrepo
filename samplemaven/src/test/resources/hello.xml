@@ -1,0 +1,7 @@
+<suite name="h">  
+ <test name="tst">
+<classes>
+         <class name="samplemaven.hello"/>                
+       </classes>
+   </test>    
+  </suite>
